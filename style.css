@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.fondo-paleta {
+	background-color: #E1E1E1 
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+	color: #201E1F;
+}
+.fondo-color {
+	background-color: #FF4000
+}
